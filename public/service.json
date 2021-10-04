@@ -1,0 +1,65 @@
+[
+    {
+       "id": 1,
+       "name": "Abroad education",
+       "img": "https://ncc.edu.bd/public/uploads/sister/sis_1607583930_536224.png",
+       "price": 250000,
+       "details": "We help for admit abroad universtiy."
+    },
+    {
+       "id": 2,
+       "name": "Dancing",
+       "img": "https://www.cambrian.edu.bd/ciml/images/sister-conserns/culture-academi.png",
+       "price": 5000,
+       "details": "Taught dancing by briliand dance master."
+    },
+    {
+       "id": 3,
+       "name": "Singing",
+       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_UB645REf9b9Fjxvta1gzn5mhx1EB8ycEg&usqp=CAU",
+       "price": 10000,
+       "details": "We have big cultural club."
+    },
+    {
+       "id": 4,
+       "name": "Debating",
+       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkM4dDEqNbFiQ7p1tymYibl3Wo0hvHaIvKRg&usqp=CAU",
+       "price": 2000,
+       "details": "Ensure that, how to debate any topic."
+    },
+    {
+       "id": 5,
+       "name": "Study",
+       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAr4sb2LmhESwNaUXoB2kJze4KMWo_y3xGQ&usqp=CAU",
+       "price": 2500,
+       "details": "Have digital campur for study."
+    },
+    {
+       "id": 6,
+       "name": "Aeronautical enginearing",
+       "img": "https://i.pinimg.com/originals/87/8b/fa/878bfac0ea237009451f950cf80088c7.jpg",
+       "price": 50000,
+       "details": "We have two aeroplane for practical learning."
+    },
+    {
+       "id": 7,
+       "name": "Practical instrument",
+       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFrx7Iw9tu5JyjiwjAElKP9D2yjEwINUgNQSqeUlzEJj3teoZgBbx3A4OoUmG3LNnkIE&usqp=CAU",
+       "price": 7000,
+       "details": "Our big research centre help you for gain practical knowleadge."
+    },
+    {
+       "id": 8,
+       "name": "Sports",
+       "img": "https://i.pinimg.com/originals/d3/f7/cc/d3f7cc6fbfa94c75c09baf16bb8f7bd5.png",
+       "price": 3000,
+       "details": "We have a fullfil play ground and instructor."
+    },
+    {
+       "id": 9,
+       "name": "Karate",
+       "img": "https://cdn4.vectorstock.com/i/thumb-large/70/03/karate-logo-martial-and-fighting-kick-symbol-vector-35737003.jpg",
+       "price": 8000,
+       "details": "Give karate teach for self defence."
+    }
+ ]
